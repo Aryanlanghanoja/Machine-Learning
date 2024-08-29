@@ -1,0 +1,7 @@
+precision
+recall
+F1 Score
+
+is a class based
+
+accuracy is generalized

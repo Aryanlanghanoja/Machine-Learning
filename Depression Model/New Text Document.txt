@@ -1,0 +1,24 @@
+Best Resut for KNN : 
+{'Best Value of K': 10, 'Best Weights': 'distance', 'Best Algorithm': 'auto', 'Best Leaf Size': 20, 'Best Metric': 'minkowski', 'Best p': 1, 'Maximum Train Accuracy': np.float64(0.9799859055673009), 'Best Test Accuracy': 0.9863013698630136}
+Best Resut for Naive Bayes : 
+{'Best Parameters': {'model': GaussianNB(), 'model__var_smoothing': 1e-09}, 'Maximum Train Accuracy': np.float64(0.9159265961037146), 'Test Accuracy': 0.9041095890410958}
+Best Resut for Decision Tree CART : 
+{'Best Parameters': {'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+Best Resut for Decision Tree ID3 : 
+{'Best Parameters': {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+Best Resut for SVM : 
+{'Best Parameters': {'C': 0.1, 'degree': 3, 'gamma': 'auto', 'kernel': 'poly'}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+Best Resut for Random Forest : {'Best Parameters': {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 50}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+
+Best Resut for KNN : 
+{'Best Value of K': 5, 'Best Weights': 'uniform', 'Best Algorithm': 'auto', 'Best Leaf Size': 50, 'Best Metric': 'minkowski', 'Best p': 1, 'Maximum Train Accuracy': np.float64(0.972233122347536), 'Best Test Accuracy': 0.9315068493150684}
+Best Resut for Naive Bayes : 
+{'Best Parameters': {'model': GaussianNB(), 'model__var_smoothing': 1e-09}, 'Maximum Train Accuracy': np.float64(0.889806189507981), 'Test Accuracy': 0.9315068493150684}
+Best Resut for Decision Tree CART : 
+{'Best Parameters': {'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+Best Resut for Decision Tree ID3 : 
+{'Best Parameters': {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+Best Resut for SVM : 
+{'Best Parameters': {'C': 0.1, 'degree': 3, 'gamma': 'auto', 'kernel': 'poly'}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 1.0}
+Best Resut for Random Forest : 
+{'Best Parameters': {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 50}, 'Maximum Train Accuracy': np.float64(1.0), 'Test Accuracy': 0.9863013698630136}
